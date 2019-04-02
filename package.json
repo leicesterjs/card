@@ -1,0 +1,31 @@
+{
+  "name": "@leicesterjs/card",
+  "version": "0.0.1",
+  "author": "LeicesterJS",
+  "bin": {
+    "leicesterjs": "./cli.js"
+  },
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/leicesterjs/card/issues"
+  },
+  "dependencies": {
+    "boxen": "^3.0.0",
+    "chalk": "^2.4.2",
+    "right-pad": "^1.0.1"
+  },
+  "homepage": "https://github.com/leicesterjs/card",
+  "keywords": [
+    "card",
+    "leicesterjs"
+  ],
+  "license": "ISC",
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leicesterjs/card.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
